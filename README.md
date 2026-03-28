@@ -1,16 +1,27 @@
-## Hi there 👋
+# Olá, eu sou o Matheus Sousa!
 
-<!--
-**matheus0824/matheus0824** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Estudante de Desenvolvimento de Sistemas no SENAI
+Focado em Desenvolvimento Web. Iniciei meus estudos para tranformar ideias em interfaces com HTML e CSS, e atualmente mergulhando no mundo do PHP e SQL para me tornar um desenvolvedor Full Stack.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Ferramentas
+
+**Domínio Atual:**
+- **Web:** HTML5 & CSS3 (Design Responsivo / Layouts)
+- **Ferramentas:** Git, GitHub, VS Code, Cisco Packet Tracer
+
+**Em constante aprendizado:**
+- **Linguagens:** PHP (Foco atual), Python
+- **Dados:** SQL (Modelagem e consultas)
+
+---
+
+### Contato
+- **LinkedIn:** https://www.linkedin.com/in/matheus-fariaspaz
+- **E-mail:** matheus.fariaspaz@gmail.com
+
+---
+
+Explore meus projetos de interface desenvolvidos com HTML5 e CSS3, onde foco em design responsivo e experiência do usuário. 
+Atualmente, estou integrando lógica de backend e manipulação de dados com PHP e SQL para criar aplicações cada vez mais completas.
