@@ -4,13 +4,6 @@
 Focado em Desenvolvimento Web. Iniciei meus estudos para tranformar ideias em interfaces com HTML e CSS, e atualmente mergulhando no mundo do PHP e SQL para me tornar um desenvolvedor Full Stack.
 
 ---
-##  Estatísticas e Tecnologias
-
-<div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheus0824&show_icons=true&theme=vision-color&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus0824&layout=compact&theme=vision-color" />
-</div>
-
 ### Ferramentas
 
 **Domínio Atual:**
