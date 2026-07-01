@@ -60,7 +60,27 @@ Focado em Desenvolvimento Web. Iniciei meus estudos para tranformar ideias em in
             src="https://custom-icon-badges.demolab.com/github/followers/matheus0824?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
   </a>
+  
 ---
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
+
 
 Explore meus projetos de interface desenvolvidos com HTML5 e CSS3, onde foco em design responsivo e experiência do usuário. 
 Atualmente, estou integrando lógica de backend e manipulação de dados com PHP e SQL para criar aplicações cada vez mais completas.
