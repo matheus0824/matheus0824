@@ -48,7 +48,7 @@ Focado em Desenvolvimento Web. Iniciei meus estudos para tranformar ideias em in
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
 
- 
+
 ---
 
 ### Contato
@@ -61,7 +61,3 @@ Focado em Desenvolvimento Web. Iniciei meus estudos para tranformar ideias em in
         />
   </a>
   
----
-
-Explore meus projetos de interface desenvolvidos com HTML5 e CSS3, onde foco em design responsivo e experiência do usuário. 
-Atualmente, estou integrando lógica de backend e manipulação de dados com PHP e SQL para criar aplicações cada vez mais completas.
