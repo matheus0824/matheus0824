@@ -53,11 +53,18 @@ Focado em Desenvolvimento Web. Iniciei meus estudos para tranformar ideias em in
 
 ### Contato
 
- <a href="https://github.com/Larissakich?tab=followers">
+ <a href="https://github.com/matheus0824tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/matheus0824?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
+            src="https://custom-icon-badges.demolab.com/github/followers/matheus0824?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
   </a>
+
+  <a href="https://www.instagram.com/matheus_sfp" target="_blank">
+    <img 
+        alt="Instagram" 
+        title="Me siga no Instagram" 
+        src="https://img.shields.io/badge/Instagram-@matheus_sfp-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+    />
+</a>
   
